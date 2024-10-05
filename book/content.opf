@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package version="3.0" unique-identifier="BookId" xmlns="http://www.idpf.org/2007/opf">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:identifier id="BookId">urn:uuid:d2b926eb-a883-43e2-ad34-837385cb061d</dc:identifier>
+    <dc:language>en</dc:language>
+    <dc:title>[此处填写主标题]</dc:title>
+    <meta property="dcterms:modified">2024-10-04T23:17:32Z</meta>
+    <meta name="Sigil version" content="2.3.1"/>
+  </metadata>
+  <manifest>
+    <item id="Section0001.xhtml" href="Text/information.xhtml" media-type="application/xhtml+xml"/>
+    <item id="sgc-nav.css" href="Styles/sgc-nav.css" media-type="text/css"/>
+    <item id="nav.xhtml" href="Text/nav.xhtml" media-type="application/xhtml+xml" properties="nav"/>
+    <item id="Section0002.xhtml" href="Text/cover.xhtml" media-type="application/xhtml+xml"/>
+    <item id="cover.jpeg" href="Images/cover.jpeg" media-type="image/jpeg"/>
+    <item id="x766ab643-207a-4f17-91b4-a15a4e6bd62e" href="Text/claim.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x0d199c03-4dfa-499a-95c9-26355042423d" href="Styles/content.css" media-type="text/css"/>
+    <item id="xd6121d43-5078-4fbb-b94d-f8a6c16a47a1" href="Text/chapter_1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="nav.ncx" href="ncx/nav.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="x2780c5b8-6e58-463c-bdd8-7b0c45658266" href="Text/note_1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="note_2.xhtml" href="Text/note_2.xhtml" media-type="application/xhtml+xml"/>
+    <item id="note_3.xhtml" href="Text/note_3.xhtml" media-type="application/xhtml+xml"/>
+    <item id="note_4.xhtml" href="Text/note_4.xhtml" media-type="application/xhtml+xml"/>
+    <item id="note_5.xhtml" href="Text/note_5.xhtml" media-type="application/xhtml+xml"/>
+    <item id="note_6.xhtml" href="Text/note_6.xhtml" media-type="application/xhtml+xml"/>
+    <item id="note_7.xhtml" href="Text/note_7.xhtml" media-type="application/xhtml+xml"/>
+    <item id="note_8.xhtml" href="Text/note_8.xhtml" media-type="application/xhtml+xml"/>
+    <item id="note_9.xhtml" href="Text/note_9.xhtml" media-type="application/xhtml+xml"/>
+    <item id="note_10.xhtml" href="Text/note_10.xhtml" media-type="application/xhtml+xml"/>
+    <item id="note_11.xhtml" href="Text/note_11.xhtml" media-type="application/xhtml+xml"/>
+    <item id="note_12.xhtml" href="Text/note_12.xhtml" media-type="application/xhtml+xml"/>
+    <item id="note_13.xhtml" href="Text/note_13.xhtml" media-type="application/xhtml+xml"/>
+    <item id="note_14.xhtml" href="Text/note_14.xhtml" media-type="application/xhtml+xml"/>
+    <item id="note_15.xhtml" href="Text/note_15.xhtml" media-type="application/xhtml+xml"/>
+    <item id="note_16.xhtml" href="Text/note_16.xhtml" media-type="application/xhtml+xml"/>
+    <item id="note_17.xhtml" href="Text/note_17.xhtml" media-type="application/xhtml+xml"/>
+    <item id="note_18.xhtml" href="Text/note_18.xhtml" media-type="application/xhtml+xml"/>
+    <item id="note_19.xhtml" href="Text/note_19.xhtml" media-type="application/xhtml+xml"/>
+    <item id="note_20.xhtml" href="Text/note_20.xhtml" media-type="application/xhtml+xml"/>
+    <item id="note_21.xhtml" href="Text/note_21.xhtml" media-type="application/xhtml+xml"/>
+    <item id="note_22.xhtml" href="Text/note_22.xhtml" media-type="application/xhtml+xml"/>
+    <item id="note_23.xhtml" href="Text/note_23.xhtml" media-type="application/xhtml+xml"/>
+    <item id="note_24.xhtml" href="Text/note_24.xhtml" media-type="application/xhtml+xml"/>
+    <item id="note_25.xhtml" href="Text/note_25.xhtml" media-type="application/xhtml+xml"/>
+    <item id="note_26.xhtml" href="Text/note_26.xhtml" media-type="application/xhtml+xml"/>
+    <item id="note_27.xhtml" href="Text/note_27.xhtml" media-type="application/xhtml+xml"/>
+    <item id="note_28.xhtml" href="Text/note_28.xhtml" media-type="application/xhtml+xml"/>
+    <item id="note_29.xhtml" href="Text/note_29.xhtml" media-type="application/xhtml+xml"/>
+    <item id="note_30.xhtml" href="Text/note_30.xhtml" media-type="application/xhtml+xml"/>
+    <item id="note_31.xhtml" href="Text/note_31.xhtml" media-type="application/xhtml+xml"/>
+    <item id="note_32.xhtml" href="Text/note_32.xhtml" media-type="application/xhtml+xml"/>
+    <item id="note_33.xhtml" href="Text/note_33.xhtml" media-type="application/xhtml+xml"/>
+    <item id="note_34.xhtml" href="Text/note_34.xhtml" media-type="application/xhtml+xml"/>
+    <item id="note_35.xhtml" href="Text/note_35.xhtml" media-type="application/xhtml+xml"/>
+    <item id="note_36.xhtml" href="Text/note_36.xhtml" media-type="application/xhtml+xml"/>
+    <item id="note_37.xhtml" href="Text/note_37.xhtml" media-type="application/xhtml+xml"/>
+    <item id="note_38.xhtml" href="Text/note_38.xhtml" media-type="application/xhtml+xml"/>
+    <item id="note_39.xhtml" href="Text/note_39.xhtml" media-type="application/xhtml+xml"/>
+    <item id="note_40.xhtml" href="Text/note_40.xhtml" media-type="application/xhtml+xml"/>
+    <item id="note_41.xhtml" href="Text/note_41.xhtml" media-type="application/xhtml+xml"/>
+    <item id="note_42.xhtml" href="Text/note_42.xhtml" media-type="application/xhtml+xml"/>
+    <item id="note_43.xhtml" href="Text/note_43.xhtml" media-type="application/xhtml+xml"/>
+    <item id="note_44.xhtml" href="Text/note_44.xhtml" media-type="application/xhtml+xml"/>
+    <item id="note_45.xhtml" href="Text/note_45.xhtml" media-type="application/xhtml+xml"/>
+    <item id="note_46.xhtml" href="Text/note_46.xhtml" media-type="application/xhtml+xml"/>
+    <item id="note_47.xhtml" href="Text/note_47.xhtml" media-type="application/xhtml+xml"/>
+    <item id="note_48.xhtml" href="Text/note_48.xhtml" media-type="application/xhtml+xml"/>
+    <item id="note_49.xhtml" href="Text/note_49.xhtml" media-type="application/xhtml+xml"/>
+    <item id="note_50.xhtml" href="Text/note_50.xhtml" media-type="application/xhtml+xml"/>
+    <item id="note_51.xhtml" href="Text/note_51.xhtml" media-type="application/xhtml+xml"/>
+    <item id="note_52.xhtml" href="Text/note_52.xhtml" media-type="application/xhtml+xml"/>
+    <item id="note_53.xhtml" href="Text/note_53.xhtml" media-type="application/xhtml+xml"/>
+    <item id="note_54.xhtml" href="Text/note_54.xhtml" media-type="application/xhtml+xml"/>
+    <item id="note_55.xhtml" href="Text/note_55.xhtml" media-type="application/xhtml+xml"/>
+    <item id="note_56.xhtml" href="Text/note_56.xhtml" media-type="application/xhtml+xml"/>
+    <item id="note_57.xhtml" href="Text/note_57.xhtml" media-type="application/xhtml+xml"/>
+    <item id="note_58.xhtml" href="Text/note_58.xhtml" media-type="application/xhtml+xml"/>
+    <item id="note_59.xhtml" href="Text/note_59.xhtml" media-type="application/xhtml+xml"/>
+    <item id="note_60.xhtml" href="Text/note_60.xhtml" media-type="application/xhtml+xml"/>
+    <item id="note_61.xhtml" href="Text/note_61.xhtml" media-type="application/xhtml+xml"/>
+    <item id="note_62.xhtml" href="Text/note_62.xhtml" media-type="application/xhtml+xml"/>
+    <item id="note_63.xhtml" href="Text/note_63.xhtml" media-type="application/xhtml+xml"/>
+    <item id="note_64.xhtml" href="Text/note_64.xhtml" media-type="application/xhtml+xml"/>
+    <item id="note_65.xhtml" href="Text/note_65.xhtml" media-type="application/xhtml+xml"/>
+    <item id="note_66.xhtml" href="Text/note_66.xhtml" media-type="application/xhtml+xml"/>
+    <item id="note_67.xhtml" href="Text/note_67.xhtml" media-type="application/xhtml+xml"/>
+    <item id="note_68.xhtml" href="Text/note_68.xhtml" media-type="application/xhtml+xml"/>
+    <item id="note_69.xhtml" href="Text/note_69.xhtml" media-type="application/xhtml+xml"/>
+    <item id="note_70.xhtml" href="Text/note_70.xhtml" media-type="application/xhtml+xml"/>
+    <item id="note_71.xhtml" href="Text/note_71.xhtml" media-type="application/xhtml+xml"/>
+    <item id="note_72.xhtml" href="Text/note_72.xhtml" media-type="application/xhtml+xml"/>
+    <item id="note_73.xhtml" href="Text/note_73.xhtml" media-type="application/xhtml+xml"/>
+    <item id="note_74.xhtml" href="Text/note_74.xhtml" media-type="application/xhtml+xml"/>
+    <item id="note_75.xhtml" href="Text/note_75.xhtml" media-type="application/xhtml+xml"/>
+    <item id="note_76.xhtml" href="Text/note_76.xhtml" media-type="application/xhtml+xml"/>
+    <item id="note_77.xhtml" href="Text/note_77.xhtml" media-type="application/xhtml+xml"/>
+    <item id="note_78.xhtml" href="Text/note_78.xhtml" media-type="application/xhtml+xml"/>
+    <item id="note_79.xhtml" href="Text/note_79.xhtml" media-type="application/xhtml+xml"/>
+    <item id="note_80.xhtml" href="Text/note_80.xhtml" media-type="application/xhtml+xml"/>
+    <item id="note_81.xhtml" href="Text/note_81.xhtml" media-type="application/xhtml+xml"/>
+    <item id="note_82.xhtml" href="Text/note_82.xhtml" media-type="application/xhtml+xml"/>
+    <item id="note_83.xhtml" href="Text/note_83.xhtml" media-type="application/xhtml+xml"/>
+    <item id="note_84.xhtml" href="Text/note_84.xhtml" media-type="application/xhtml+xml"/>
+    <item id="note_85.xhtml" href="Text/note_85.xhtml" media-type="application/xhtml+xml"/>
+    <item id="note_86.xhtml" href="Text/note_86.xhtml" media-type="application/xhtml+xml"/>
+    <item id="note_87.xhtml" href="Text/note_87.xhtml" media-type="application/xhtml+xml"/>
+    <item id="note_88.xhtml" href="Text/note_88.xhtml" media-type="application/xhtml+xml"/>
+    <item id="note_89.xhtml" href="Text/note_89.xhtml" media-type="application/xhtml+xml"/>
+    <item id="note_90.xhtml" href="Text/note_90.xhtml" media-type="application/xhtml+xml"/>
+    <item id="note_91.xhtml" href="Text/note_91.xhtml" media-type="application/xhtml+xml"/>
+    <item id="note_92.xhtml" href="Text/note_92.xhtml" media-type="application/xhtml+xml"/>
+    <item id="note_93.xhtml" href="Text/note_93.xhtml" media-type="application/xhtml+xml"/>
+    <item id="note_94.xhtml" href="Text/note_94.xhtml" media-type="application/xhtml+xml"/>
+    <item id="note_95.xhtml" href="Text/note_95.xhtml" media-type="application/xhtml+xml"/>
+    <item id="note_96.xhtml" href="Text/note_96.xhtml" media-type="application/xhtml+xml"/>
+    <item id="note_97.xhtml" href="Text/note_97.xhtml" media-type="application/xhtml+xml"/>
+    <item id="note_98.xhtml" href="Text/note_98.xhtml" media-type="application/xhtml+xml"/>
+    <item id="note_99.xhtml" href="Text/note_99.xhtml" media-type="application/xhtml+xml"/>
+    <item id="note_100.xhtml" href="Text/note_100.xhtml" media-type="application/xhtml+xml"/>
+    <item id="note_101.xhtml" href="Text/note_101.xhtml" media-type="application/xhtml+xml"/>
+    <item id="note_102.xhtml" href="Text/note_102.xhtml" media-type="application/xhtml+xml"/>
+    <item id="note_103.xhtml" href="Text/note_103.xhtml" media-type="application/xhtml+xml"/>
+    <item id="note_104.xhtml" href="Text/note_104.xhtml" media-type="application/xhtml+xml"/>
+    <item id="note_105.xhtml" href="Text/note_105.xhtml" media-type="application/xhtml+xml"/>
+    <item id="note_106.xhtml" href="Text/note_106.xhtml" media-type="application/xhtml+xml"/>
+    <item id="note_107.xhtml" href="Text/note_107.xhtml" media-type="application/xhtml+xml"/>
+    <item id="note_108.xhtml" href="Text/note_108.xhtml" media-type="application/xhtml+xml"/>
+    <item id="note_109.xhtml" href="Text/note_109.xhtml" media-type="application/xhtml+xml"/>
+    <item id="note_110.xhtml" href="Text/note_110.xhtml" media-type="application/xhtml+xml"/>
+    <item id="note_111.xhtml" href="Text/note_111.xhtml" media-type="application/xhtml+xml"/>
+    <item id="note_112.xhtml" href="Text/note_112.xhtml" media-type="application/xhtml+xml"/>
+    <item id="note_113.xhtml" href="Text/note_113.xhtml" media-type="application/xhtml+xml"/>
+    <item id="note_114.xhtml" href="Text/note_114.xhtml" media-type="application/xhtml+xml"/>
+    <item id="note_115.xhtml" href="Text/note_115.xhtml" media-type="application/xhtml+xml"/>
+    <item id="note_116.xhtml" href="Text/note_116.xhtml" media-type="application/xhtml+xml"/>
+    <item id="note_117.xhtml" href="Text/note_117.xhtml" media-type="application/xhtml+xml"/>
+    <item id="note_118.xhtml" href="Text/note_118.xhtml" media-type="application/xhtml+xml"/>
+    <item id="note_119.xhtml" href="Text/note_119.xhtml" media-type="application/xhtml+xml"/>
+    <item id="note_120.xhtml" href="Text/note_120.xhtml" media-type="application/xhtml+xml"/>
+    <item id="note_121.xhtml" href="Text/note_121.xhtml" media-type="application/xhtml+xml"/>
+    <item id="note_122.xhtml" href="Text/note_122.xhtml" media-type="application/xhtml+xml"/>
+    <item id="note_123.xhtml" href="Text/note_123.xhtml" media-type="application/xhtml+xml"/>
+    <item id="note_124.xhtml" href="Text/note_124.xhtml" media-type="application/xhtml+xml"/>
+    <item id="note_125.xhtml" href="Text/note_125.xhtml" media-type="application/xhtml+xml"/>
+    <item id="note_126.xhtml" href="Text/note_126.xhtml" media-type="application/xhtml+xml"/>
+    <item id="note_127.xhtml" href="Text/note_127.xhtml" media-type="application/xhtml+xml"/>
+    <item id="note_128.xhtml" href="Text/note_128.xhtml" media-type="application/xhtml+xml"/>
+    <item id="note_129.xhtml" href="Text/note_129.xhtml" media-type="application/xhtml+xml"/>
+    <item id="note_130.xhtml" href="Text/note_130.xhtml" media-type="application/xhtml+xml"/>
+    <item id="note_131.xhtml" href="Text/note_131.xhtml" media-type="application/xhtml+xml"/>
+    <item id="note_132.xhtml" href="Text/note_132.xhtml" media-type="application/xhtml+xml"/>
+    <item id="note_133.xhtml" href="Text/note_133.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x301dac43-2920-4b44-aa4d-8ddd25f94c4c" href="Text/introduction_en.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter_1_en.xhtml" href="Text/chapter_1_en.xhtml" media-type="application/xhtml+xml"/>
+    <item id="introduction.xhtml" href="Text/introduction.xhtml" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="nav.ncx">
+    <itemref idref="Section0002.xhtml"/>
+    <itemref idref="Section0001.xhtml"/>
+    <itemref idref="x766ab643-207a-4f17-91b4-a15a4e6bd62e"/>
+    <itemref idref="nav.xhtml" linear="no"/>
+    <itemref idref="introduction.xhtml"/>
+    <itemref idref="x301dac43-2920-4b44-aa4d-8ddd25f94c4c"/>
+    <itemref idref="xd6121d43-5078-4fbb-b94d-f8a6c16a47a1"/>
+    <itemref idref="chapter_1_en.xhtml"/>
+    <itemref idref="x2780c5b8-6e58-463c-bdd8-7b0c45658266"/>
+    <itemref idref="note_2.xhtml"/>
+    <itemref idref="note_3.xhtml"/>
+    <itemref idref="note_4.xhtml"/>
+    <itemref idref="note_5.xhtml"/>
+    <itemref idref="note_6.xhtml"/>
+    <itemref idref="note_7.xhtml"/>
+    <itemref idref="note_8.xhtml"/>
+    <itemref idref="note_9.xhtml"/>
+    <itemref idref="note_10.xhtml"/>
+    <itemref idref="note_11.xhtml"/>
+    <itemref idref="note_12.xhtml"/>
+    <itemref idref="note_13.xhtml"/>
+    <itemref idref="note_14.xhtml"/>
+    <itemref idref="note_15.xhtml"/>
+    <itemref idref="note_16.xhtml"/>
+    <itemref idref="note_17.xhtml"/>
+    <itemref idref="note_18.xhtml"/>
+    <itemref idref="note_19.xhtml"/>
+    <itemref idref="note_20.xhtml"/>
+    <itemref idref="note_21.xhtml"/>
+    <itemref idref="note_22.xhtml"/>
+    <itemref idref="note_23.xhtml"/>
+    <itemref idref="note_24.xhtml"/>
+    <itemref idref="note_25.xhtml"/>
+    <itemref idref="note_26.xhtml"/>
+    <itemref idref="note_27.xhtml"/>
+    <itemref idref="note_28.xhtml"/>
+    <itemref idref="note_29.xhtml"/>
+    <itemref idref="note_30.xhtml"/>
+    <itemref idref="note_31.xhtml"/>
+    <itemref idref="note_32.xhtml"/>
+    <itemref idref="note_33.xhtml"/>
+    <itemref idref="note_34.xhtml"/>
+    <itemref idref="note_35.xhtml"/>
+    <itemref idref="note_36.xhtml"/>
+    <itemref idref="note_37.xhtml"/>
+    <itemref idref="note_38.xhtml"/>
+    <itemref idref="note_39.xhtml"/>
+    <itemref idref="note_40.xhtml"/>
+    <itemref idref="note_41.xhtml"/>
+    <itemref idref="note_42.xhtml"/>
+    <itemref idref="note_43.xhtml"/>
+    <itemref idref="note_44.xhtml"/>
+    <itemref idref="note_45.xhtml"/>
+    <itemref idref="note_46.xhtml"/>
+    <itemref idref="note_47.xhtml"/>
+    <itemref idref="note_48.xhtml"/>
+    <itemref idref="note_49.xhtml"/>
+    <itemref idref="note_50.xhtml"/>
+    <itemref idref="note_51.xhtml"/>
+    <itemref idref="note_52.xhtml"/>
+    <itemref idref="note_53.xhtml"/>
+    <itemref idref="note_54.xhtml"/>
+    <itemref idref="note_55.xhtml"/>
+    <itemref idref="note_56.xhtml"/>
+    <itemref idref="note_57.xhtml"/>
+    <itemref idref="note_58.xhtml"/>
+    <itemref idref="note_59.xhtml"/>
+    <itemref idref="note_60.xhtml"/>
+    <itemref idref="note_61.xhtml"/>
+    <itemref idref="note_62.xhtml"/>
+    <itemref idref="note_63.xhtml"/>
+    <itemref idref="note_64.xhtml"/>
+    <itemref idref="note_65.xhtml"/>
+    <itemref idref="note_66.xhtml"/>
+    <itemref idref="note_67.xhtml"/>
+    <itemref idref="note_68.xhtml"/>
+    <itemref idref="note_69.xhtml"/>
+    <itemref idref="note_70.xhtml"/>
+    <itemref idref="note_71.xhtml"/>
+    <itemref idref="note_72.xhtml"/>
+    <itemref idref="note_73.xhtml"/>
+    <itemref idref="note_74.xhtml"/>
+    <itemref idref="note_75.xhtml"/>
+    <itemref idref="note_76.xhtml"/>
+    <itemref idref="note_77.xhtml"/>
+    <itemref idref="note_78.xhtml"/>
+    <itemref idref="note_79.xhtml"/>
+    <itemref idref="note_80.xhtml"/>
+    <itemref idref="note_81.xhtml"/>
+    <itemref idref="note_82.xhtml"/>
+    <itemref idref="note_83.xhtml"/>
+    <itemref idref="note_84.xhtml"/>
+    <itemref idref="note_85.xhtml"/>
+    <itemref idref="note_86.xhtml"/>
+    <itemref idref="note_87.xhtml"/>
+    <itemref idref="note_88.xhtml"/>
+    <itemref idref="note_89.xhtml"/>
+    <itemref idref="note_90.xhtml"/>
+    <itemref idref="note_91.xhtml"/>
+    <itemref idref="note_92.xhtml"/>
+    <itemref idref="note_93.xhtml"/>
+    <itemref idref="note_94.xhtml"/>
+    <itemref idref="note_95.xhtml"/>
+    <itemref idref="note_96.xhtml"/>
+    <itemref idref="note_97.xhtml"/>
+    <itemref idref="note_98.xhtml"/>
+    <itemref idref="note_99.xhtml"/>
+    <itemref idref="note_100.xhtml"/>
+    <itemref idref="note_101.xhtml"/>
+    <itemref idref="note_102.xhtml"/>
+    <itemref idref="note_103.xhtml"/>
+    <itemref idref="note_104.xhtml"/>
+    <itemref idref="note_105.xhtml"/>
+    <itemref idref="note_106.xhtml"/>
+    <itemref idref="note_107.xhtml"/>
+    <itemref idref="note_108.xhtml"/>
+    <itemref idref="note_109.xhtml"/>
+    <itemref idref="note_110.xhtml"/>
+    <itemref idref="note_111.xhtml"/>
+    <itemref idref="note_112.xhtml"/>
+    <itemref idref="note_113.xhtml"/>
+    <itemref idref="note_114.xhtml"/>
+    <itemref idref="note_115.xhtml"/>
+    <itemref idref="note_116.xhtml"/>
+    <itemref idref="note_117.xhtml"/>
+    <itemref idref="note_118.xhtml"/>
+    <itemref idref="note_119.xhtml"/>
+    <itemref idref="note_120.xhtml"/>
+    <itemref idref="note_121.xhtml"/>
+    <itemref idref="note_122.xhtml"/>
+    <itemref idref="note_123.xhtml"/>
+    <itemref idref="note_124.xhtml"/>
+    <itemref idref="note_125.xhtml"/>
+    <itemref idref="note_126.xhtml"/>
+    <itemref idref="note_127.xhtml"/>
+    <itemref idref="note_128.xhtml"/>
+    <itemref idref="note_129.xhtml"/>
+    <itemref idref="note_130.xhtml"/>
+    <itemref idref="note_131.xhtml"/>
+    <itemref idref="note_132.xhtml"/>
+    <itemref idref="note_133.xhtml"/>
+  </spine>
+</package>

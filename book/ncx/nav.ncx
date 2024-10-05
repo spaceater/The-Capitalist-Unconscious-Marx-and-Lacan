@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ncx version="2005-1" xml:lang="eng" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta name="dtb:uid" content="6062076d-1235-4c3b-b890-1830837244ea"/>
+    <meta name="dtb:depth" content="3"/>
+    <meta name="dtb:generator" content="calibre (7.18.0)"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+  <docTitle>
+    <text>资本主义的无意识（中文）：序言+第一章</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="num_1" playOrder="1" class="chapter">
+      <navLabel>
+        <text>导言：拉康第二次回到弗洛伊德</text>
+      </navLabel>
+      <content src="index_split_002.html"/>
+    </navPoint>
+    <navPoint id="num_2" playOrder="2" class="chapter">
+      <navLabel>
+        <text>第一章</text>
+      </navLabel>
+      <content src="index_split_004.html"/>
+      <navPoint id="num_3" playOrder="3" class="chapter">
+        <navLabel>
+          <text>结构与历史</text>
+        </navLabel>
+        <content src="index_split_004.html#toc_id_3"/>
+      </navPoint>
+      <navPoint id="num_4" playOrder="4" class="chapter">
+        <navLabel>
+          <text>索绪尔和政治经济学</text>
+        </navLabel>
+        <content src="index_split_004.html#toc_id_4"/>
+      </navPoint>
+      <navPoint id="num_5" playOrder="5" class="chapter">
+        <navLabel>
+          <text>表征和生产</text>
+        </navLabel>
+        <content src="index_split_004.html#toc_id_5"/>
+      </navPoint>
+      <navPoint id="num_6" playOrder="6" class="chapter">
+        <navLabel>
+          <text>剩余与丧失的逻辑</text>
+        </navLabel>
+        <content src="index_split_004.html#toc_id_6"/>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>

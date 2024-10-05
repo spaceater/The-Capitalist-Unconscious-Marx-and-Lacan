@@ -1,0 +1,56 @@
+.calibre{
+	color: #FFFFFF;
+	display: block;
+	font-family: "Times New Roman","宋体",serif;
+	font-size: 1em;
+	text-align: justify;
+	padding: 0;
+	line-height: 1.2rem;
+}
+h1{
+    display: block;
+    font-size: 1.6rem;
+    line-height: 0.5rem;
+    font-weight: bold;
+}
+h2{
+	display: block;
+	font-size: 1.3rem;
+	font-weight: bold;
+}
+a{
+	text-decoration: none;
+}
+.text{
+	display: block;
+	text-indent: 2rem;
+	margin: 0.5rem 0 0.5rem 0;
+}
+.emphasis{
+    font-weight: bold;
+}
+.term{
+	font-style:italic;
+}
+.quote {
+	display: block;
+	font-family: "华文楷体", serif;
+	text-indent: 0;
+	margin: 1rem 1.5rem 1rem 1.5rem;
+}
+.annotation{
+	font-size: 0.75em;
+	font-family: "Times New Roman","宋体",serif;
+	line-height: 0;
+	vertical-align: super;
+}
+.back_note{
+	font-size: 1.3rem;
+}
+.footnote{
+	display: block;
+	font-size: 1rem;
+	margin: 1rem 0 0 2.5rem;
+	text-align: left;
+	padding: 0;
+}
