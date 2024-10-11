@@ -1,20 +1,21 @@
+*{
+	padding: 0;
+	margin: 0;
+}
 .main{
 	color: #000000;
-	display: block;
 	font-family: "Times New Roman","宋体",serif;
 	font-size: 1em;
 	text-align: justify;
-	padding: 0;
+	margin: 1rem 1rem;
 	line-height: 1.2rem;
 }
 h1{
-    display: block;
     font-size: 1.6rem;
-    line-height: 0.5rem;
+    line-height: 1.6rem;
     font-weight: bold;
 }
 h2{
-	display: block;
 	font-size: 1rem;
 	font-weight: normal;
 }
