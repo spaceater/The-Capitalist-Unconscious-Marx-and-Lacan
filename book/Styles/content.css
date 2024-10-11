@@ -1,4 +1,4 @@
-.calibre{
+.main{
 	color: #000000;
 	display: block;
 	font-family: "Times New Roman","宋体",serif;
@@ -15,11 +15,14 @@ h1{
 }
 h2{
 	display: block;
-	font-size: 1.3rem;
-	font-weight: bold;
+	font-size: 1rem;
+	font-weight: normal;
 }
 a{
 	text-decoration: none;
+}
+ol{
+	list-style-type: none;
 }
 .text{
 	display: block;
